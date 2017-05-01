@@ -1,5 +1,6 @@
-# Quote machine
-*Freecodecamp project*
+# Quote machine - freecodecamp project
+
+*If you want to see the app working [click here](https://carloalejandrosalas.github.io/quote_machine/)*
 
 ## What is it?
 This is an app that gives you an quote and its author. You can press an button for give you other quote, 
