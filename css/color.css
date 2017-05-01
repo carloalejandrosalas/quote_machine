@@ -1,0 +1,43 @@
+.contenido {
+  background-color: #7f6091;
+  font-family: sans-serif;
+}
+.card
+{
+  border-top: 2px;
+  border-color: #7f6091;
+  margin-top: 90px;
+  background-color: #ffffff;
+  color: rgb(110, 88, 159);
+}
+
+.body-card{
+  padding: 20px;
+}
+
+.boton{
+  border: 0px;
+  border-radius: 3px;
+  background-color: #7f6091;
+  color:white;
+  width: 100px;
+  height: 30px;
+}
+
+.twitter:active{
+  color: #60c1f7;
+}
+
+footer{
+  margin-top: 150px;
+  color: white;
+  text-align: center;
+}
+
+footer a{
+  color: #dededb;
+}
+
+footer a:hover{
+  text-decoration: none;
+}
